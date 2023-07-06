@@ -19,7 +19,10 @@ public class MultAndDivide {
         double subtotal = 30;
     double tax = 0.0875;
 
-    double total = subtotal + tax;
+    double total = subtotal + subtotal*tax;
     System.out.println(total);
+
+    double perPerson = total/4;
+    System.out.println(perPerson);
     }
 }
