@@ -14,15 +14,57 @@
 
 
 // Multiplication and Division
-public class MultAndDivide {
+// public class MultAndDivide {
+//     public static void main(String[] args) {   
+//         double subtotal = 30;
+//     double tax = 0.0875;
+
+//     double total = subtotal + subtotal*tax;
+//     System.out.println(total);
+
+//     double perPerson = total/4;
+//     System.out.println(perPerson);
+//     }
+// }
+
+
+// Loop Control: Break
+// public class Modulo {
+//     public static void main(String[] args) {   
+//         int students = 26;
+
+//         int leftOutstudents = 26%3;
+//         System.out.println(leftOutstudents); 
+//     }
+// } 
+
+// Loop Control: Break
+// public class Modulo {
+//     public static void main(String[] args) {   
+//         int students = 26;
+
+//         int leftOutstudents = 26%3;
+//         System.out.println(leftOutstudents); 
+//     }
+// } 
+
+// Loop Control: Break
+// public class Modulo {
+//     public static void main(String[] args) {   
+//         int students = 26;
+
+//         int leftOutstudents = 26%3;
+//         System.out.println(leftOutstudents); 
+//     }
+// } 
+
+// Compound Assigment Operators
+public class BakeSale {
     public static void main(String[] args) {   
-        double subtotal = 30;
-    double tax = 0.0875;
+        int numCookies = 17;
 
-    double total = subtotal + subtotal*tax;
-    System.out.println(total);
 
-    double perPerson = total/4;
-    System.out.println(perPerson);
+    // Add your code above
+    System.out.println(numCookies);
     }
 }
