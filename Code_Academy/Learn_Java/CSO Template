@@ -1,18 +1,19 @@
 
 
+//CSO TEMPLATE
 
-//Customer Impact
-Customer Impact: Unable to login to their solution impacting their ability to browse through the UI, or initiate any Email, SMS, or Push notification campaigns.
-Impact Window: 2023-07-06 at 4:24 UTC
-Customers Support Reports: Yes
-Customer impacted:  WESTJET
+Customer Impact: 
+
+Impact Window: 
+Customers Support Reports: 
+Customer impacted:  
 
 //Current Actions
-Symptoms: Unable to login to their solution impacting their ability to browse through the UI, or initiate any Email, SMS, or Push notification campaigns.
+Symptoms: 
 
 Current Actions :
-[July/06/2023] TechOps/SRE and ACS Engineering teams have been engaged. SRE team is able to login using Administrator account but no other user accounts can authenticate. Issue is being actively investigated.
+[] 
 
 Technical Details
-[https://jira.corp.adobe.com/browse/SKYOPS-61409]
+[]
 
